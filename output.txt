@@ -1,0 +1,31 @@
+SSE: 15728.773376819092
+Cluster (0) Count: 18
+Cluster (1) Count: 6
+Cluster (2) Count: 3
+Item coordinate pair: 340.0 20.0 Assigned cluster: 1
+Item coordinate pair: 245.0 21.0 Assigned cluster: 2
+Item coordinate pair: 420.0 15.0 Assigned cluster: 1
+Item coordinate pair: 375.0 19.0 Assigned cluster: 1
+Item coordinate pair: 180.0 22.0 Assigned cluster: 0
+Item coordinate pair: 115.0 20.0 Assigned cluster: 0
+Item coordinate pair: 170.0 25.0 Assigned cluster: 0
+Item coordinate pair: 160.0 26.0 Assigned cluster: 0
+Item coordinate pair: 265.0 20.0 Assigned cluster: 2
+Item coordinate pair: 300.0 18.0 Assigned cluster: 2
+Item coordinate pair: 340.0 20.0 Assigned cluster: 1
+Item coordinate pair: 340.0 19.0 Assigned cluster: 1
+Item coordinate pair: 355.0 19.0 Assigned cluster: 1
+Item coordinate pair: 205.0 18.0 Assigned cluster: 0
+Item coordinate pair: 185.0 23.0 Assigned cluster: 0
+Item coordinate pair: 135.0 22.0 Assigned cluster: 0
+Item coordinate pair: 70.0 11.0 Assigned cluster: 0
+Item coordinate pair: 45.0 7.0 Assigned cluster: 0
+Item coordinate pair: 90.0 14.0 Assigned cluster: 0
+Item coordinate pair: 135.0 16.0 Assigned cluster: 0
+Item coordinate pair: 200.0 19.0 Assigned cluster: 0
+Item coordinate pair: 155.0 16.0 Assigned cluster: 0
+Item coordinate pair: 195.0 16.0 Assigned cluster: 0
+Item coordinate pair: 120.0 17.0 Assigned cluster: 0
+Item coordinate pair: 180.0 22.0 Assigned cluster: 0
+Item coordinate pair: 170.0 25.0 Assigned cluster: 0
+Item coordinate pair: 110.0 23.0 Assigned cluster: 0
